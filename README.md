@@ -9,9 +9,9 @@ Cowrie is developed by Michel Oosterhof and is based on Kippo by Upi Tamminen (d
 https://github.com/micheloosterhof/cowrie
 
 
-There is also a for of MHN with cowrie integrated as a new sensor type .
+There is also a fork of MHN with cowrie integrated as a new sensor type .
 https://github.com/Antelox/mhn
 
 
-If you prefer to user the official MHN repo and want to add quick cowrie support this script can be used.
+If you prefer to user the official MHN repo and want to add quick cowrie as sensor this script can be used.
 https://github.com/threatstream/mhn
